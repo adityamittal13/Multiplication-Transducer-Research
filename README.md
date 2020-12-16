@@ -1,2 +1,2 @@
 # Mulitplication-Transducer
-Part of ongoing research to discover trends in transducers for different bases.
+Part of ongoing research to discover trends in multiplication transducers for different bases through data visualization and mapping quotient sets.
